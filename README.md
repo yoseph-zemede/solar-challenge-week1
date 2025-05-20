@@ -45,6 +45,7 @@ Open any notebook in the `notebooks/` directory using Jupyter or VS Code and run
 solar-challenge-week1/
 ├── app/                     # Streamlit dashboard (bonus task)
 ├── data/                    # Raw and cleaned data (excluded from Git)
+├── dashboard_screenshots/   # Streamlit dashboard screenshots
 ├── notebooks/               # EDA and comparison notebooks
 ├── .github/workflows/       # GitHub Actions CI
 ├── requirements.txt         # Project dependencies
